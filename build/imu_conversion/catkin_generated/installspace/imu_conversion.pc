@@ -1,8 +1,0 @@
-prefix=/home/nuc/ouster_ws/install
-
-Name: imu_conversion
-Description: Description of imu_conversion
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/nuc/ouster_ws/install/lib 
-Requires: 

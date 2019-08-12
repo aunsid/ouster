@@ -1,2 +1,0 @@
-extractlidar:imu_conversion:ouster_example/ouster_client:ouster_example/ouster_ros:pointcloud_to_laserscan
--DCATKIN_DEVEL_PREFIX=/home/nuc/ouster_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nuc/ouster_ws/install -G Unix Makefiles

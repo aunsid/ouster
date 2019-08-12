@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nuc/ouster_ws/src/ouster_example/ouster_client/include/ouster/os1.h
+cstdint
+-
+memory
+-
+string
+-
+
+/home/nuc/ouster_ws/src/ouster_example/ouster_client/src/os1.cpp
+cerrno
+-
+chrono
+-
+cstdio
+-
+cstring
+-
+iostream
+-
+memory
+-
+arpa/inet.h
+-
+netdb.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+unistd.h
+-
+ouster/os1.h
+/home/nuc/ouster_ws/src/ouster_example/ouster_client/src/ouster/os1.h
+

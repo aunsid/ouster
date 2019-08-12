@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg= "imu_conversion" name="imuerror" type="imuerror" respawn="true" output="screen" />
+
+
+
+</launch>

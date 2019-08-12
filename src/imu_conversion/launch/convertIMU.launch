@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg= "imu_conversion" name="convertIMU" type="convertIMU" respawn="true" output="screen" />
+
+
+
+</launch>
